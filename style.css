@@ -2,6 +2,10 @@
 body{
     text-align: center;
     font-family: 'Roboto';
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.heading{
+    color: white;
 }
 button{
     border-radius: 5px;
@@ -22,7 +26,12 @@ button{
     border-radius: 3vh;
 }
 .content{
-    background-color: antiquewhite;
+    background-color: rgba(18, 18, 18, 0.425);
+    border: 5px solid rgba(0, 0, 0, 0.505);
+    border-radius: 2vh;
     display: flex;
     flex-direction: column;
+    width: 45vh;
+    margin: auto;
+    padding: 1vh;
 }
