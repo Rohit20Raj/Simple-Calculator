@@ -4,12 +4,12 @@ body{
     font-family: 'Roboto';
 }
 button{
+    border-radius: 5px;
     font-family: 'Roboto';
     font-size: larger;
     height: 10vh;
-    width: 10vh;
     margin: 10px 2px;
-    border-radius: 5px;
+    width: 10vh;
 }
 .text{
     border-radius: 5px;
@@ -17,6 +17,9 @@ button{
     font-size: xx-large;
     height: 10vh;
     width: 43vh;
+}
+.row0 > button{
+    border-radius: 3vh;
 }
 .content{
     background-color: antiquewhite;
