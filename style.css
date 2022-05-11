@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital@1&family=Sacramento&family=Sansita+Swashed:wght@500&display=swap');
+body{
+    text-align: center;
+    font-family: 'Roboto';
+}
+button{
+    font-family: 'Roboto';
+    font-size: larger;
+    height: 10vh;
+    width: 10vh;
+    margin: 10px 2px;
+    border-radius: 5px;
+}
+.text{
+    border-radius: 5px;
+    font-family: 'Roboto';
+    font-size: xx-large;
+    height: 10vh;
+    width: 43vh;
+}
+.content{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+}
