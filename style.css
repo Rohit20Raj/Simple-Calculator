@@ -27,6 +27,13 @@ button{
 .row0 > button{
     border-radius: 3vh;
 }
+.row0, .row1, .row2, .row3, .row4{
+    display: flex;
+    justify-content: center;
+}
+#backspace{
+    height: 5vh;
+}
 .content{
     background-color: rgba(18, 18, 18, 0.425);
     border: 5px solid rgba(0, 0, 0, 0.505);
