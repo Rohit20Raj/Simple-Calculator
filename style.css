@@ -23,6 +23,8 @@ button{
 }
 .text{
     border-radius: 5px;
+    display: flex;
+    align-items: center;
     font-family: 'digital-7';
     font-size:xxx-large;
     height: 10vh;
