@@ -15,18 +15,16 @@ body{
 }
 button{
     border-radius: 5px;
-    font-family: 'Roboto';
-    font-size: larger;
+    font-family: 'digital-7';
+    font-size: xx-large;
     height: 10vh;
     margin: 10px 2px;
     width: 10vh;
 }
 .text{
+    font-family: 'Roboto';
     border-radius: 5px;
-    display: flex;
-    align-items: center;
-    font-family: 'digital-7';
-    font-size:xxx-large;
+    font-size:xx-large;
     height: 10vh;
     width: 43vh;
 }
