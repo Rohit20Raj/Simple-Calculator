@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:ital@1&family=Sacramento&family=Sansita+Swashed:wght@500&display=swap');
+@font-face {
+    font-family: 'digital-7';
+    src: url(images/digital-7.italic.ttf);
+}
 body{
     text-align: center;
     font-family: 'Roboto';
@@ -19,8 +23,8 @@ button{
 }
 .text{
     border-radius: 5px;
-    font-family: 'Roboto';
-    font-size: xx-large;
+    font-family: 'digital-7';
+    font-size: 8vh;
     height: 10vh;
     width: 43vh;
 }
